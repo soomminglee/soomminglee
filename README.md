@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text= Hi! soomin Github 😋&fontSize=90" />
 <!--
 **soomminglee/soomminglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
